@@ -4,5 +4,8 @@ public class PrimeiraClasse {
     public static void main(String[] args) {
             System.out.print("Alô mundo!");
             System.out.println("Concluí a aula 01 e agora estou mergulhando em java");
+            System.out.println("Concluí a aula 01 e agora estou mergulhando em java");
+            System.out.println("Concluí a aula 01 e agora estou mergulhando em java");
+            System.out.println("Concluí a aula 01 e agora estou mergulhando em java");
         }
     }

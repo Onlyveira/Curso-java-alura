@@ -11,8 +11,8 @@ public class ExercicioAdivinhacao {
 
         System.out.println(numeroGerado);
         while(tentativas < 5){
-            System.out.println("Advinhe o numero de 0 a 100");
             int palpite = leitura.nextInt();
+            System.out.println("Advinhe o numero de 0 a 100");
             tentativas++;
 
          if(palpite == numeroGerado){
